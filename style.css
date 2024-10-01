@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: rgb(231, 168, 168);
     font-family: Sofadi One;
     }
     footer{
@@ -20,7 +20,7 @@ body {
     }
     .cartao {
     margin: 1rem 1rem;
-    background-color: #2d75fa;
+    background-color: #b94949;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
