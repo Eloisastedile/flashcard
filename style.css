@@ -3,8 +3,8 @@ body {
     font-family: Sofadi One;
 }
 footer{
-    background-color: black;
-    color: white;
+    background-color: rgb(72, 141, 45);
+    color: rgb(231, 40, 40);
     bottom: 0;
     position: fixed;
     width: 100%;
@@ -22,7 +22,7 @@ footer p{
 }
 .cartao {
     margin: 1rem;
-    background-color: #07b485;
+    background-color: #1d7fcf;
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
@@ -37,7 +37,7 @@ footer p{
     justify-content: space-between;
 }
 .cartao__conteudo h3 {
-    background-color: #11c796;
+    background-color: #116fc7;
     text-align: left;
     padding: 0.5rem;
     margin: 0.6rem;
